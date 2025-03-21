@@ -1,0 +1,2 @@
+recursive-include dag_file_tree/** *.js *.css *.json *.html
+prune tests
