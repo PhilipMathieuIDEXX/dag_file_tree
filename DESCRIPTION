@@ -1,0 +1,13 @@
+Package: dagFileTree
+Title: A file-tree-like viewer for visualizing and selecting nodes from a NetworkX DAG
+Version: 1.0.0
+Description: A file-tree-like viewer for visualizing and selecting nodes from a NetworkX DAG
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License:  + file LICENSE
+URL: https://github.com/PhilipMathieuIDEXX/dag-file-tree
+BugReports: https://github.com/PhilipMathieuIDEXX/dag-file-tree/issues
+Encoding: UTF-8
+LazyData: true
+KeepSource: true
